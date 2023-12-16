@@ -1,3 +1,9 @@
+# .vscode folder
+**/.vscode/
+
+# PDF files
+**/*.pdf
+
 # Compiled class file
 *.class
 
